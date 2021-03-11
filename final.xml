@@ -1,0 +1,131 @@
+<VAST version="3.0">
+  <Ad id="1510964-4044865" sequence="1">
+    <InLine>
+      <AdSystem>AdFox.Ru</AdSystem>
+      <AdTitle>video</AdTitle>
+      <Description>video ad</Description>
+      <Error>https://ads.adfox.ru/264443/event?hash=ce46a5e22dee4433&amp;pm=u&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=lxuzjjy&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Error>
+      <Error>https://dev-avod-rt.getshop.tv/v1/rt/avod/error?test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Error>
+      <Impression>https://ads.adfox.ru/264443/event?hash=64f4a2d97eaf55e9&amp;pm=b&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=dgtzgtb&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Impression>
+      <Impression>https://ad.doubleclick.net/ddm/trackimp/N946727.1778344CTC.RU/B24853010.286114236;dc_trk_aid=479792257;dc_trk_cid=140125051;ord=18634674201863467420;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_755}?</Impression>
+      <Impression>https://www.tns-counter.ru/V13a**crid:4044865**cat_ad/ru/UTF-8/tmsec=catad_ctc/1863467420</Impression>
+      <Impression>https://dev-avod-rt.getshop.tv/v1/rt/avod/impression?test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="creativeView">https://ads.adfox.ru/264443/event?hash=9894d1450089927c&amp;pm=c&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=jauwcna&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="start">https://ads.adfox.ru/264443/event?hash=502e201424e484ce&amp;pm=d&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=kxdqtwz&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="midpoint">https://ads.adfox.ru/264443/event?hash=e523f94d485ee519&amp;pm=f&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=beebyqy&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="firstQuartile">https://ads.adfox.ru/264443/event?hash=add3ce92de245529&amp;pm=e&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=mflqwfe&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="thirdQuartile">https://ads.adfox.ru/264443/event?hash=ec5999c6d7e35f98&amp;pm=g&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=laofkll&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="complete">https://ads.adfox.ru/264443/event?hash=d0728f5ad385fe35&amp;pm=h&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=gvbxueh&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="mute">https://ads.adfox.ru/264443/event?hash=cb925756e07a0a83&amp;pm=i&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=guwatwd&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="unmute">https://ads.adfox.ru/264443/event?hash=fdb0d4ce9a30b93a&amp;pm=j&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=cqfyoki&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="pause">https://ads.adfox.ru/264443/event?hash=42cc45416994fce9&amp;pm=k&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=hqmwgt&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="rewind">https://ads.adfox.ru/264443/event?hash=19ad2a0f7c5ad364&amp;pm=l&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=naekgdt&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="resume">https://ads.adfox.ru/264443/event?hash=02ff9758359d5bcd&amp;pm=m&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=gxbuxyo&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="fullscreen">https://ads.adfox.ru/264443/event?hash=3b38b414ceaf7b7e&amp;pm=n&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=kkothfl&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="expand">https://ads.adfox.ru/264443/event?hash=e70d515bfe3ce9d0&amp;pm=o&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=kbxtsvf&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="collapse">https://ads.adfox.ru/264443/event?hash=f5fa541ddfbe1fbd&amp;pm=p&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=kuzojvt&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="acceptInvitation">https://ads.adfox.ru/264443/event?hash=db7d2a527d9eb443&amp;pm=q&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=bfcnxgp&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="close">https://ads.adfox.ru/264443/event?hash=0eca3a3181f33c5a&amp;pm=r&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=dnqaqtr&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
+              <Tracking event="complete">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=complete&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="creativeView">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=creativeView&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="start">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=start&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="firstQuartile">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=firstQuartile&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="midpoint">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=midpoint&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="thirdQuartile">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=thirdQuartile&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="close">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=close&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+              <Tracking event="skip">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=skip&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+            </TrackingEvents>
+            <MediaFiles>
+              <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="232" scalable="true" maintainAspectRatio="true">https://redirector.gvt1.com/videoplayback/id/5bad011a1282b323/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1615492622/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/5219E9DF762C8693B658271B98D0C4EB26B0CEB6.5ADA3F7253376B3B5ABF335298250AB8A1AEEE63/key/ck2/file/file.mp4</MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="startTime">00:00</Extension>
+        <Extension type="skipTime">00:05</Extension>
+        <Extension type="skipTime2">00:05:00</Extension>
+        <Extension type="linkTxt">перейти на сайт рекламодателя</Extension>
+        <Extension type="isClickable">0</Extension>
+        <Extension type="skipAd">https://ads.adfox.ru/264443/event?hash=8edd1a93cda90a74&amp;pm=s&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=bwoxwbr&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Extension>
+        <Extension type="addClick">https://ads.adfox.ru/264443/event?hash=25a91511237e7cf2&amp;pm=t&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=judvlnu&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Extension>
+        <Extension type="exclusive">0</Extension>
+        <Extension type="closeAct">no</Extension>
+        <Extension type="CustomTracking">
+          <Tracking event="onVastLoad">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=onVastLoad&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+  <Ad id="104381319" sequence="2">
+    <InLine>
+      <AdSystem>GetShop.TV AVoD</AdSystem>
+      <AdTitle>Рекламный ролик РТ Трансформер РК 15 секунд</AdTitle>
+      <Error>http://dev-avod-rt.getshop.tv/v1/rt/avod/error?test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Error>
+      <Impression>http://dev-avod-rt.getshop.tv/v1/rt/avod/impression?test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Impression>
+      <Creatives>
+        <Creative id="104381319">
+          <Linear>
+            <Duration>00:00:15</Duration>
+            <TrackingEvents>
+              <Tracking event="complete">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=complete&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="creativeView">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=creativeView&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="start">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=start&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="firstQuartile">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=firstQuartile&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="midpoint">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=midpoint&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="thirdQuartile">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=thirdQuartile&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="close">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=close&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+              <Tracking event="skip">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=skip&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+            </TrackingEvents>
+            <MediaFiles>
+              <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="232" scalable="true" maintainAspectRatio="true">https://redirector.gvt1.com/videoplayback/id/5bad011a1282b323/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1615492622/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/5219E9DF762C8693B658271B98D0C4EB26B0CEB6.5ADA3F7253376B3B5ABF335298250AB8A1AEEE63/key/ck2/file/file.mp4</MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="CustomTracking">
+          <Tracking event="onVastLoad">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=onVastLoad&amp;test=single_no_skip&amp;eid=2e80e1ab-14a3-541a-a055-78c456a4d519</Tracking>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+  <Ad id="104381550" sequence="3">
+    <InLine>
+      <AdSystem>GetShop.TV AVoD</AdSystem>
+      <AdTitle>Рекламный ролик РТ Трансформер РК 30 секунд</AdTitle>
+      <Error>http://dev-avod-rt.getshop.tv/v1/rt/avod/error?test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Error>
+      <Impression>http://dev-avod-rt.getshop.tv/v1/rt/avod/impression?test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Impression>
+      <Creatives>
+        <Creative id="104381550">
+          <Linear skipoffset="00:00:15">
+            <Duration>00:00:30</Duration>
+            <TrackingEvents>
+              <Tracking event="complete">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=complete&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="creativeView">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=creativeView&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="start">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=start&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="firstQuartile">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=firstQuartile&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="midpoint">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=midpoint&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="thirdQuartile">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=thirdQuartile&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="close">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=close&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+              <Tracking event="skip">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=skip&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+            </TrackingEvents>
+            <MediaFiles>
+              <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="232" scalable="true" maintainAspectRatio="true">https://redirector.gvt1.com/videoplayback/id/5bad011a1282b323/itag/22/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fmp4/ctier/L/ip/0.0.0.0/ipbits/0/expire/1615492622/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime,ctier/signature/5219E9DF762C8693B658271B98D0C4EB26B0CEB6.5ADA3F7253376B3B5ABF335298250AB8A1AEEE63/key/ck2/file/file.mp4</MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+      <Extensions>
+        <Extension type="CustomTracking">
+          <Tracking event="onVastLoad">http://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=onVastLoad&amp;test=single_no_skip&amp;eid=413b94cc-0991-56c2-b23c-1c5dedd703a3</Tracking>
+        </Extension>
+      </Extensions>
+    </InLine>
+  </Ad>
+</VAST>
