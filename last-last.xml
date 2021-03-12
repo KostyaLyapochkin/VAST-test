@@ -12,7 +12,7 @@
             <Impression>https://dev-avod-rt.getshop.tv/v1/rt/avod/impression?test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Impression>
             <Creatives>
                 <Creative>
-                    <Linear>
+                    <Linear skipoffset="00:00:05">
                         <Duration>00:00:10</Duration>
                         <TrackingEvents>
                             <Tracking event="creativeView">https://ads.adfox.ru/264443/event?hash=9894d1450089927c&amp;pm=c&amp;rqs=AwBJAAgAAAC5t-VfoBXnNyYsy5q_e8_q&amp;puid13=186102&amp;utg=oxum&amp;lts=ffktbgb&amp;puid11=258325&amp;lpdid=8%3A4784131&amp;puid10=1&amp;pr=a&amp;puid3=187683&amp;puid12=186208&amp;puid2=229105&amp;p2=fuki&amp;rand=jauwcna&amp;sj=jvsPj89x8irH-ZSFHF96JqNqybZgMMfQsisw6aDMRYv2lTKrSgVbUPi0MppGnzySAph-u6AOkwfgfSmSPZR-wXJTYbUcA2Hs0c2znLQ%3D&amp;puid1=285&amp;p5=iwdnt&amp;p1=cmjqy</Tracking>
