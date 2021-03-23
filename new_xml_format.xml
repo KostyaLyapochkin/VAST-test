@@ -41,8 +41,7 @@
                             <Tracking event="skip">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=skip&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
                         </TrackingEvents>
                         <MediaFiles>
-                            </MediaFile>
-                            MediaFile type="video/x-flv" width="1280" height="720" bitrate="4575" delivery="progressive" isScalable="true" keepAspectRatio="true">
+                            <MediaFile type="video/x-flv" width="1280" height="720" bitrate="4575" delivery="progressive" isScalable="true" keepAspectRatio="true">
                                 <![CDATA[
                   https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_720p.flv
                   ]]>
@@ -66,7 +65,7 @@
                                 <![CDATA[
                   https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_480p.flv
                   ]]>
-                  
+
                             </MediaFile>
                             <!-- <MediaFile type="application/x-mpegURL" width="0" height="0" bitrate="0" delivery="streaming" isScalable="true" keepAspectRatio="true">
                                 <![CDATA[
