@@ -41,31 +41,6 @@
                             <Tracking event="skip">https://dev-avod-rt.getshop.tv/v1/rt/avod/tracking?event=skip&amp;test=single_no_skip&amp;t=everest&amp;eid=0c57deac-22f6-5784-8965-4142457c0e17</Tracking>
                         </TrackingEvents>
                         <MediaFiles>
-                            <!-- <MediaFile type="video/webm" width="854" height="480" bitrate="1045" delivery="progressive" isScalable="true" keepAspectRatio="true">
-                                <![CDATA[
-                  https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_480p.webm
-                  ]]>
-                            </MediaFile>
-                            <MediaFile type="video/webm" width="1920" height="1080" bitrate="2783" delivery="progressive" isScalable="true" keepAspectRatio="true">
-                                <![CDATA[
-                  https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_1080p.webm
-                  ]]>
-                            </MediaFile>
-                            <MediaFile type="video/webm" width="1280" height="720" bitrate="1718" delivery="progressive" isScalable="true" keepAspectRatio="true">
-                                <![CDATA[
-                  https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_720p.webm
-                  ]]>
-                            </MediaFile>
-                            <MediaFile type="video/webm" width="640" height="360" bitrate="692" delivery="progressive" isScalable="true" keepAspectRatio="true">
-                                <![CDATA[
-                  https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_360p.webm
-                  ]]>
-                            </MediaFile>
-                            <MediaFile type="video/webm" width="426" height="240" bitrate="581" delivery="progressive" isScalable="true" keepAspectRatio="true">
-                                <![CDATA[
-                  https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_240p.webm
-                  ]]>
-                            </MediaFile> -->
                             <MediaFile type="video/mp4" width="1920" height="1080" bitrate="5874" delivery="progressive" isScalable="true" keepAspectRatio="true">
                                 <![CDATA[
                   https://strm.yandex.ru/vh-adfox-converted/vod-content/8832005652327281724_169_1080p.mp4
